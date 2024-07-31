@@ -1,3 +1,4 @@
 print("test 2")
 print("hello world")
+print("test 2")
 
